@@ -1,0 +1,152 @@
+.first_div {
+    margin-left:  10%;
+    margin-top: 0%;
+    width: 80%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://www.24hourfitness.com/content/dam/24-hour-fitness/membership/membership-options/silver.jpg);
+    height: 830px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+    
+}
+
+.main_head {
+    font-size: 80px;
+    color: aliceblue;
+    margin-left: 3%;
+    width: 80%;
+    padding-top: 4%;
+
+}
+
+.first_paras {
+    font-size: x-large;
+    margin-left: 5%;
+    color: aliceblue;
+}
+.first_ank{
+    font-size: medium;
+    color: aliceblue;
+    margin-left: 10%;
+    text-decoration: underline;
+}
+
+.first_btn {
+    margin: 7% 0% 0% 5%;
+    padding: 20px;
+    width: 22%;
+    border-radius: 12%;
+    background-color: transparent;
+    font-size: x-large;
+    color: aliceblue;
+    border-color: aliceblue;
+    border: 3px solid aliceblue;
+
+}
+
+
+.regi_ank {
+
+    margin-left: 10%;
+    margin-top: auto;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+.combo{
+    
+    width: 40%;
+    margin-left: 10%;
+}
+
+.main_head2{
+    padding-left: 8%;
+    padding-top: 4%;
+    margin-left: 20%;
+    margin-top: 6%;
+    color: aliceblue;
+    width: 20%;
+    font-size: 40px;
+}
+
+.main_head1{
+    padding-left: 13%;
+    padding-top: 4%;
+    margin-left: 20%;
+    margin-top: 6%;
+    color: aliceblue;
+    width: 20%;
+    font-size: 40px;
+}
+.btn{
+    width: 60%;
+    text-decoration: underline;
+    padding-top: 14px;
+    padding-bottom: 12px;
+    font-size: 25px;
+    color: rgb(17, 17, 16);
+    margin-left: 17%;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    color: aliceblue;
+    background-color: transparent;
+    border-radius: 7%;
+    row-gap: 20px;
+
+}
+.img_tag{
+    width: 70%;
+    border-radius: 50%;
+    margin-left: 8%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.body_divs{
+    width: 40%;
+}
+.all{
+    display: flex;
+    
+}
+.bakimg{
+    
+    width: 80%;
+    margin-left: 10%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://png.pngtree.com/background/20230528/original/pngtree-gym-is-reflected-in-an-odd-light-picture-image_2773779.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.para2{
+    color: aliceblue;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    font-size: large;
+    padding-bottom: 2%;
+}
+
+.para2 a{
+    color: aliceblue;
+    text-decoration: underline;
+    font-size: x-large;
+    padding-bottom: 5%;
+    
+}
+
+.main_head3{
+    font-size: 80px;
+    color: aliceblue;
+    margin-left: 14%;
+    margin-top: 0%;
+    width: 80%;
+    padding-top: 2%;
+    
+}
+.blur{
+    border: 2px solid aliceblue;
+    width: 80%;
+    margin-left: 10%;
+}
